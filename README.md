@@ -23,7 +23,9 @@ The dataset our team selected comes from data.gov which is a US government websi
 
 ## Question 1: How does the number of cylinders in the engine affect the fuel economy across different drivetrain types?
 
-Importance of this question: 
-This question explores the relationship between engine specifications (specifically, the number of cylinders) and fuel economy, considering different drivetrain types such as Front-wheel Drive (FWD), Rear-wheel Drive (RWD), All-wheel Drive (AWD), and others. Analyzing this relationship can provide valuable insights into the impact of engine design on the efficiency of various vehicle configurations.
+## Manipulations of the Dataset
+
+The original dataset contained lots of surplus information with many null values which we cleaned up in Microsoft Excel before uploading to Tableau. First, our dataset contained information for electric and plug in hybrid vehicles, which our team omitted in our version dataset, focusing on the fuel economy comparisons of strictly gas-powered vehicles. Second, our team identified the columns with large amounts of null values and excluded those columns from our version of the dataset. Next, the dataset also had lots of information relating to environmental regulations, such as CO2 emission data which we also omitted from our dataset version. Finally, we limited our dataset to account for a few redundant dimensions, and our dataset was effectively complete. Still, the final version of our 2024 Fuel Economy dataset is certainly comprehensive, containing over 20 different car divisions, for gas powered cars, SUVs, and trucks manufactured in the year 2024. 
+
 
 

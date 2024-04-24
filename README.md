@@ -46,7 +46,7 @@ The packaged workbook containing the visualizations shown above is attached to t
 ## Aditional Dataset Information:
 The data in the table is based on every car released in 2024. 
 
-##### Table specifics:
+#### Table specifics:
 
 Manufacturer – group/company that oversees production of the car. Ex. Aston Martin only produces Aston Martin products, but FCA (sometimes referred to as Stellantis) produces Dodge, Chrysler, Jeep, and RAM.
 

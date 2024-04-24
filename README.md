@@ -8,7 +8,7 @@
  21484 Group 6
 
 ## Team Members:
-Erika Evan @erikaevan
+Erika Evan @
 
 William Malonda @WMalonda
 
@@ -27,6 +27,8 @@ Importance of this question:
 This question explores the relationship between engine specifications (specifically, the number of cylinders) and fuel economy, considering different drivetrain types such as Front-wheel Drive (FWD), Rear-wheel Drive (RWD), All-wheel Drive (AWD), and others. Analyzing this relationship can provide valuable insights into the impact of engine design on the efficiency of various vehicle configurations.
 
 Our first graph illustrates the various quantities of engines across the different types of Drivetrains along with the average combined fuel economy. We noticed that there was a consistent downward trend across all the drivetrains as the engine count increased in terms of combined fuel economy. With this being said, the 2-Wheel Drive, Front has the highest average combined fuel economy  for a 4 engine count where the 2-wheel drive, rear had the lowest. This shows that the higher the engine count, the worse it affects the combined fuel economy.
+
+![image](https://github.com/erikaevan/MIST4610GroupProject2/assets/163041610/899981f4-4f73-4d8c-9a83-f79d89c707c2)
 
 ## Question 2: Is there a correlation between annual fuel cost and price paid for fuwl? Can the price of someone's fuel can be predicted from the manufacturer's fuel economy data?
 

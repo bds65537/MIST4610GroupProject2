@@ -64,38 +64,40 @@ Comb FE – from the manufacturer - this would be the car’s fuel economy on re
 
 Aspiration – determines if the engine’s intake has internal “air boost” technology
 
-Naturally Aspirated – the engine relies on atmospheric pressure. Noo internal boost.
+     Naturally Aspirated – the engine relies on atmospheric pressure. Noo internal boost.
 
-Turbocharged – Engine relies on an exhaust-driven “turbo” for atmospheric pressure.
-Supercharged – Engine relies on a mechanically-driven supercharger for atmospheric pressure.
+     Turbocharged – Engine relies on an exhaust-driven “turbo” for atmospheric pressure.
+     
+     Supercharged – Engine relies on a mechanically-driven supercharger for atmospheric pressure.
 
-Turbocharged + Supercharged – Engine relies on both a supercharger and a “turbo” for atmospheric pressure. Also called “Twincharged” or “Twincharging” an engine.
+     Turbocharged + Supercharged – Engine relies on both a supercharger and a “turbo” for atmospheric pressure. Also called “Twincharged” or “Twincharging” an engine.
 
-Other – Other cases using uncommon aspiration methods, such as centripetal superchargers and hybrid engine assists.
+     Other – Other cases using uncommon aspiration methods, such as centripetal superchargers and hybrid engine assists.
 
 Transmission – the type of transmission that the car is mated to. The transmission controls the power to torque ratio.
 
-Continuously Variable Transmission (CVT): the transmission only has one gear that is continuously variable, or changes based on the speed of the vehicle. Usually have good fuel economy. No clutch control, but no need because there’s only one gear and you can’t switch gears.
+     Continuously Variable Transmission (CVT): the transmission only has one gear that is continuously variable, or changes based on the speed of the vehicle. Usually have good fuel economy. No clutch control, but no need because there’s only one gear and you can’t switch gears.
 
-Automated Manual: A newer version of Semi-automatic, but without a torque converter. No clutch control.
+     Automated Manual: A newer version of Semi-automatic, but without a torque converter. No clutch control.
 
-Semi-Automatic: A version of automatic in which a computer controls clutch control, but with a torque converter. No clutch control.
+     Semi-Automatic: A version of automatic in which a computer controls clutch control, but with a torque converter. No clutch control.
 
-Manual: User controls the clutch, which controls whether the transmission/throttle is mated to the engine (whether pressing the gas makes the car go forward). 
+     Manual: User controls the clutch, which controls whether the transmission/throttle is mated to the engine (whether pressing the gas makes the car go forward). 
 Automatic: User has no control over the transmission’s clutch
 
 Number of Gears – number of gears in the transmission. More gears = more shifting time, generally means less MPG
+
 Drivetrain – decides which wheels the engine is powering.
 
-2WD, Front (FWD): The front wheels are powered by the engine. Ex. Honda Civic
+     2WD, Front (FWD): The front wheels are powered by the engine. Ex. Honda Civic
 
-2WD, Rear (RWD): The back wheels are powered by the engine. Ex. Mazda MX-5 Miata
+     2WD, Rear (RWD): The back wheels are powered by the engine. Ex. Mazda MX-5 Miata
 
-AWD: All wheels are powered by the engine. Torque is distributed evenly to all wheels. Better grip/traction in snow. Ex. Subaru WRX
+     AWD: All wheels are powered by the engine. Torque is distributed evenly to all wheels. Better grip/traction in snow. Ex. Subaru WRX
 
-4WD: All wheels are powered by the engine, but in low-traction situations, the driver can adjust torque to distribute unevenly. Ex. Chevrolet Silverado
+     4WD: All wheels are powered by the engine, but in low-traction situations, the driver can adjust torque to distribute unevenly. Ex. Chevrolet Silverado
 
-Part-time 4WD: All wheels are powered by the engine, but in low-traction situations, a computer adjusts torque to distribute unevenly. Ex. Toyota Tundra 4WD
+     Part-time 4WD: All wheels are powered by the engine, but in low-traction situations, a computer adjusts torque to distribute unevenly. Ex. Toyota Tundra 4WD
 
 Annual Fuel Cost – How much it would cost for one years’ worth of gasoline using regular gasoline (87 Unleaded)
 

@@ -44,41 +44,37 @@ The original dataset contained lots of surplus information with many null values
 The packaged workbook containing the visualizations shown above is attached to this repository.
 
 
-# Additional Dataset Information:
-•	The data in the table is based on every car released in 2024. 
-•	Table specifics
-o	Manufacturer – group/company that oversees production of the car. Ex. Aston Martin only produces Aston Martin products, but FCA (sometimes referred to as Stellantis) produces Dodge, Chrysler, Jeep, and RAM.
-o	Division – sometimes referred to as the “make” of the car. Ex. An F150’s Division would be “Ford”
-o	Carline – sometimes referred to as the “model” of the car. Often repeats as many models have options for different transmissions, or have multiple trims. Ex. Supra 3.0 is listed twice, once for Semi-Automatic, once for Manual.
-o	EngineCylinders - # of cylinders in the engine. Engines can have any number of cylinders in their car. Generally speaking, more cylinders means less MPG.
-o	City FE – From the manufacturer – this would be the car’s fuel economy on regular gas (87 Unleaded) if the car drove a full tank of gas in a city environment (frequent stops, low speeds, lower gears). Generally considered the lowest fuel economy if the car isn’t driven hard.
-o	Hwy FE – from the manufacturer - this would be the car’s fuel economy on regular gas (87 Unleaded) if the car drove a full tank of gas in a highway environment (few stops, high speeds, higher gears). Generally considered the highest fuel economy if the car isn’t driven frugally.
-o	Comb FE – from the manufacturer - this would be the car’s fuel economy on regular gas (87 Unleaded) if the car drove a full tank of gas in a mixture of city and highway environment.
-o	Aspiration – determines if the engine’s intake has internal “air boost” technology
-	Naturally Aspirated – the engine relies on atmospheric pressure. Noo internal boost.
-	Turbocharged – Engine relies on an exhaust-driven “turbo” for atmospheric pressure.
-	Supercharged – Engine relies on a mechanically-driven supercharger for atmospheric pressure.
-	Turbocharged + Supercharged – Engine relies on both a supercharger and a “turbo” for atmospheric pressure. Also called “Twincharged” or “Twincharging” an engine.
-	Other – Other cases using uncommon aspiration methods, such as centripetal superchargers and hybrid engine assists.
-o	Transmission – the type of transmission that the car is mated to. The transmission controls the power to torque ratio.
-	Continuously Variable Transmission (CVT): the transmission only has one gear that is continuously variable, or changes based on the speed of the vehicle. Usually have good fuel economy. No clutch control, but no need because there’s only one gear and you can’t switch gears.
-	Automated Manual: A newer version of Semi-automatic, but without a torque converter. No clutch control.
-	Semi-Automatic: A version of automatic in which a computer controls clutch control, but with a torque converter. No clutch control.
-	Manual: User controls the clutch, which controls whether the transmission/throttle is mated to the engine (whether pressing the gas makes the car go forward). 
-	Automatic: User has no control over the transmission’s clutch
-o	# of Gears – number of gears in the transmission. More gears = more shifting time, generally means less MPG
-o	Drivetrain – decides which wheels the engine is powering.
-	2WD, Front (FWD): The front wheels are powered by the engine. Ex. Honda Civic
-	2WD, Rear (RWD): The back wheels are powered by the engine. Ex. Mazda MX-5 Miata
-	AWD: All wheels are powered by the engine. Torque is distributed evenly to all wheels. Better grip/traction in snow. Ex. Subaru WRX
-	4WD: All wheels are powered by the engine, but in low-traction situations, the driver can adjust torque to distribute unevenly. Ex. Chevrolet Silverado
-	Part-time 4WD: All wheels are powered by the engine, but in low-traction situations, a computer adjusts torque to distribute unevenly. Ex. Toyota Tundra 4WD
-o	Annual Fuel Cost – How much it would cost for one years’ worth of gasoline using regular gasoline (87 Unleaded)
-o	# of Intake Valves per cylinder – the # of valves each cylinder inputted into the engine. The higher this value, the more intake the system is receiving.
-o	# of Exhaust Valves per cylinder – the # of valves each cylinder in the engine outputs. The higher this value, the more exhaust this system is producing.
-o	Carline Class Desc – The type of car that the model is classified under. Some categories are broken into drivetrain type.
-o	Release Date – the day that the model was released.
-
-
-
+## Additional Dataset Information:
+### Table specifics
+Manufacturer – group/company that oversees production of the car. Ex. Aston Martin only produces Aston Martin products, but FCA (sometimes referred to as Stellantis) produces Dodge, Chrysler, Jeep, and RAM.
+Division – sometimes referred to as the “make” of the car. Ex. An F150’s Division would be “Ford”
+Carline – sometimes referred to as the “model” of the car. Often repeats as many models have options for different transmissions, or have multiple trims. Ex. Supra 3.0 is listed twice, once for Semi-Automatic, once for Manual.
+EngineCylinders - # of cylinders in the engine. Engines can have any number of cylinders in their car. Generally speaking, more cylinders means less MPG.
+City FE – From the manufacturer – this would be the car’s fuel economy on regular gas (87 Unleaded) if the car drove a full tank of gas in a city environment (frequent stops, low speeds, lower gears). Generally considered the lowest fuel economy if the car isn’t driven hard.
+Hwy FE – from the manufacturer - this would be the car’s fuel economy on regular gas (87 Unleaded) if the car drove a full tank of gas in a highway environment (few stops, high speeds, higher gears). Generally considered the highest fuel economy if the car isn’t driven frugally.
+Comb FE – from the manufacturer - this would be the car’s fuel economy on regular gas (87 Unleaded) if the car drove a full tank of gas in a mixture of city and highway environment.
+Aspiration – determines if the engine’s intake has internal “air boost” technology
+Naturally Aspirated – the engine relies on atmospheric pressure. Noo internal boost.
+Turbocharged – Engine relies on an exhaust-driven “turbo” for atmospheric pressure.
+Supercharged – Engine relies on a mechanically-driven supercharger for atmospheric pressure.
+Turbocharged + Supercharged – Engine relies on both a supercharger and a “turbo” for atmospheric pressure. Also called “Twincharged” or “Twincharging” an engine.
+Other – Other cases using uncommon aspiration methods, such as centripetal superchargers and hybrid engine assists.
+Transmission – the type of transmission that the car is mated to. The transmission controls the power to torque ratio.
+Continuously Variable Transmission (CVT): the transmission only has one gear that is continuously variable, or changes based on the speed of the vehicle. Usually have good fuel economy. No clutch control, but no need because there’s only one gear and you can’t switch gears.
+Automated Manual: A newer version of Semi-automatic, but without a torque converter. No clutch control.
+Semi-Automatic: A version of automatic in which a computer controls clutch control, but with a torque converter. No clutch control.
+Manual: User controls the clutch, which controls whether the transmission/throttle is mated to the engine (whether pressing the gas makes the car go forward). 
+Automatic: User has no control over the transmission’s clutch
+# of Gears – number of gears in the transmission. More gears = more shifting time, generally means less MPG
+Drivetrain – decides which wheels the engine is powering.
+2WD, Front (FWD): The front wheels are powered by the engine. Ex. Honda Civic
+2WD, Rear (RWD): The back wheels are powered by the engine. Ex. Mazda MX-5 Miata
+AWD: All wheels are powered by the engine. Torque is distributed evenly to all wheels. Better grip/traction in snow. Ex. Subaru WRX
+4WD: All wheels are powered by the engine, but in low-traction situations, the driver can adjust torque to distribute unevenly. Ex. Chevrolet Silverado
+Part-time 4WD: All wheels are powered by the engine, but in low-traction situations, a computer adjusts torque to distribute unevenly. Ex. Toyota Tundra 4WD
+Annual Fuel Cost – How much it would cost for one years’ worth of gasoline using regular gasoline (87 Unleaded)
+# of Intake Valves per cylinder – the # of valves each cylinder inputted into the engine. The higher this value, the more intake the system is receiving.
+# of Exhaust Valves per cylinder – the # of valves each cylinder in the engine outputs. The higher this value, the more exhaust this system is producing.
+Carline Class Desc – The type of car that the model is classified under. Some categories are broken into drivetrain type.
+Release Date – the day that the model was released.
 

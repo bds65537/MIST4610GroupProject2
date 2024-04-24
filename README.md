@@ -8,7 +8,7 @@
  21484 Group 6
 
 ## Team Members:
-Erika Evan @
+Erika Evan @erikaevan
 
 William Malonda @WMalonda
 

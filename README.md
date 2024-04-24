@@ -26,15 +26,15 @@ The dataset our team selected comes from data.gov which is a US government websi
 Importance of this question:
 This question explores the relationship between engine specifications (specifically, the number of cylinders) and fuel economy, considering different drivetrain types such as Front-wheel Drive (FWD), Rear-wheel Drive (RWD), All-wheel Drive (AWD), and others. Analyzing this relationship can provide valuable insights into the impact of engine design on the efficiency of various vehicle configurations.
 
-Our first graph illustrates the various quantities of engines across the different types of Drivetrains along with the average combined fuel economy. We noticed that there was a consistent downward trend across all the drivetrains as the engine count increased in terms of combined fuel economy. With this being said, the 2-Wheel Drive, Front has the highest average combined fuel economy  for a 4 engine count where the 2-wheel drive, rear had the lowest. This shows that the higher the engine count, the worse it affects the combined fuel economy.
-
 ![image](https://github.com/erikaevan/MIST4610GroupProject2/assets/163041610/899981f4-4f73-4d8c-9a83-f79d89c707c2)
+Our first graph illustrates the various quantities of engines across the different types of Drivetrains along with the average combined fuel economy. We noticed that there was a consistent downward trend across all the drivetrains as the engine count increased in terms of combined fuel economy. With this being said, the 2-Wheel Drive, Front has the highest average combined fuel economy  for a 4 engine count where the 2-wheel drive, rear had the lowest. This shows that the higher the engine count, the worse it affects the combined fuel economy.
 
 ## Question 2: Is there a correlation between annual fuel cost and price paid for fuwl? Can the price of someone's fuel can be predicted from the manufacturer's fuel economy data?
 
 Importance of this question: 
 This question investigates whether the annual fuel cost of vehicles affects how much someone pays for unleaded fuel over one year and whether the price of fuel can be predicted from fuel economy data. It also examines variance between city fuel economy and highway fuel economy.
 
+![image](https://github.com/erikaevan/MIST4610GroupProject2/assets/163041610/02582677-bd72-4e78-9484-04a85ee5812b)
 
 Our second graph displays a trendline between fuel economy and fuel costs of the cars within our dataset. The trendline used is that of a power function line instead of an exponential function as it better fits our graph. For each type of fuel economy (City, Highway, and Combined), as the fuel economy level of a car increases, the annual cost of fuel decreases and vice versa via the trendline. Many of the vehicles will fall within the range of 20–30 FE and will hover around the 2000-3000 annual fuel cost. Using the graph, the annual fuel cost for each car will be able to determine the price paid for fuel for each car. Additionally, the price of a person’s fuel can generally be predicted using the manufacturer’s fuel economy data.
 

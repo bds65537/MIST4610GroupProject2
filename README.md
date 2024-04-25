@@ -27,7 +27,7 @@ This question explores the relationship between engine specifications (specifica
 
 Our first graph illustrates the various quantities of engines across the different types of Drivetrains along with the average combined fuel economy. We noticed that there was a consistent downward trend across all the drivetrains as the engine count increased in terms of combined fuel economy. With this being said, the 2-Wheel Drive, Front has the highest average combined fuel economy  for a 4 engine count where the 2-wheel drive, rear had the lowest. This shows that the higher the engine count, the worse it affects the combined fuel economy.
 
-## Question 2: Is there a correlation between annual fuel cost and price paid for fuwl? Can the price of someone's fuel can be predicted from the manufacturer's fuel economy data?
+## Question 2: Is there a correlation between annual fuel cost and price paid for fuel? Can the price of someone's fuel can be predicted from the manufacturer's fuel economy data?
 
 Importance of this question: 
 This question investigates whether the annual fuel cost of vehicles affects how much someone pays for unleaded fuel over one year and whether the price of fuel can be predicted from fuel economy data. It also examines variance between city fuel economy and highway fuel economy.
